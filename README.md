@@ -35,3 +35,17 @@ It uses the following third-party libraries and tools:
 - **LibreHardwareMonitor** (MPL 2.0)
 
 Full license details and links to the corresponding source codes are provided during installation and in the `Licenses` folder.
+
+☕ Support Spectra FPS Meter
+
+Enjoying Spectra FPS Meter? Consider supporting its development!
+
+Your contribution helps fund future improvements, new features, bug fixes, and ongoing development.
+
+❤️ Support the developer via PayPal:
+
+spectra.sergiotech@gmail.com
+
+Every contribution, no matter how small, is greatly appreciated.
+
+Thank you for supporting independent development!
