@@ -16,9 +16,9 @@ A modern, highly customizable floating FPS and hardware overlay for Windows.
 
 ![Spectra FPS Meter - Vertical](https://raw.githubusercontent.com/spectrasergiotech/SpectraFpsMeter/main/img4.png)
 
-![Spectra FPS Meter - Horizontal](https://raw.githubusercontent.com/spectrasergiotech/SpectraFpsMeter/main/img2.png)
+![Spectra FPS Meter - Horizontal](https://raw.githubusercontent.com/spectrasergiotech/SpectraFpsMeter/main/img5.png)
 
-![Spectra FPS Meter - Settings](https://raw.githubusercontent.com/spectrasergiotech/SpectraFpsMeter/main/img3.png)
+![Spectra FPS Meter - Settings](https://raw.githubusercontent.com/spectrasergiotech/SpectraFpsMeter/main/img7.png)
 
 ## 📥 Download
 You can download the latest version in the **[Releases](../../releases/latest)** tab.
