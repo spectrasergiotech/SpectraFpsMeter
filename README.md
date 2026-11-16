@@ -13,6 +13,7 @@ A modern, highly customizable floating FPS and hardware overlay for Windows.
 - **Lightweight:** Runs smoothly on a secondary monitor without interfering with your game.
 
 ## 📸 Screenshots
+<img width="535" height="568" alt="Captura de tela 2026-11-15 213358" src="https://github.com/user-attachments/assets/1d12b183-ad9c-4624-a8c8-896ef54555a7" />
 [![Spectra FPS Meter - Vertical](https://github.com/spectrasergiotech/SpectraFpsMeter/blob/383e70ce97f80c884e4d197ab1aa2e562e5fecbe/img1.png)
 
 ![Spectra FPS Meter - Horizontal](https://github.com/spectrasergiotech/SpectraFpsMeter/blob/383e70ce97f80c884e4d197ab1aa2e562e5fecbe/img2.png)
